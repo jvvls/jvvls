@@ -29,3 +29,8 @@ Aqui no GitHub compartilho projetos acadêmicos e pessoais voltados para aprendi
   Aplicação web inspirada no Portal da Transparência, focada em visualização acessível de dados públicos.  
   Desenvolvida com HTML, CSS, JavaScript e práticas de desenvolvimento ágil.  
   🔗 https://projeto-obra-prima.onrender.com 
+
+  - Dashboard
+  Aplicação web voltada para aprendizado independente de tecnologias de analise de dados e fullstack.
+  Foi feita com Flask, React, Docker e com auxilio de Pandas.
+  https://github.com/jvvls/Fullstack-Dashboard
