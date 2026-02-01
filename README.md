@@ -39,7 +39,7 @@ Aqui no GitHub compartilho projetos acadêmicos e pessoais voltados para aprendi
 - **Projeto Web com Flask + React + Docker**  
   Aplicação full stack desenvolvida em ambiente containerizado, integrando backend em Flask, frontend em React e processamento de dados com Pandas.
 
-- **Projeto Academico Web inspirado em rede social **  
+- **Projeto Academico Web inspirado em rede social**  
   Desenvolvimento focado em fundamentos de engenharia de software, básico de fullstack e que está ativo em https://projeto-obra-prima.onrender.com/
 
 📌 Sempre em busca de aprender mais, colaborar em projetos e construir soluções que funcionam na prática.
