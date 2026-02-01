@@ -30,7 +30,7 @@ Aqui no GitHub compartilho projetos acadêmicos e pessoais voltados para aprendi
   Desenvolvida com HTML, CSS, JavaScript e práticas de desenvolvimento ágil.  
   🔗 https://projeto-obra-prima.onrender.com 
 
-  - Dashboard
+- Dashboard
   Aplicação web voltada para aprendizado independente de tecnologias de analise de dados e fullstack.
   Foi feita com Flask, React, Docker e com auxilio de Pandas.
   https://github.com/jvvls/Fullstack-Dashboard
