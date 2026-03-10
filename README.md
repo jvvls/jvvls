@@ -16,7 +16,6 @@ Aqui no GitHub compartilho **projetos acadêmicos e pessoais** voltados para apr
 - Estruturas de Dados e Algoritmos  
 - Aplicações Web Full Stack  
 - Engenharia de Dados e ETL  
-- Automação e Web Scraping  
 - Inteligência Artificial (em formação)
 
 ---
@@ -97,4 +96,5 @@ Tecnologias:
 
 ## 📫 Contato
 
-- LinkedIn: (seu linkedin)
+- [LinkedIn](https://www.linkedin.com/in/joaovictorvial/)
+- [Gmail](joaovictorvial@gmail.com)
