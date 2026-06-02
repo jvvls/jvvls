@@ -13,9 +13,9 @@ Aqui no GitHub compartilho **projetos acadêmicos e pessoais** voltados para apr
 ## 🚀 Áreas de foco
 
 - Backend e arquitetura de sistemas  
-- Estruturas de Dados e Algoritmos  
 - Aplicações Web Full Stack  
-- Engenharia de Dados e ETL  
+- Engenharia de Dados e ETL
+- Sistemas distribuidos
 - Inteligência Artificial (em formação)
 
 ---
@@ -23,10 +23,10 @@ Aqui no GitHub compartilho **projetos acadêmicos e pessoais** voltados para apr
 ## 🛠️ Tecnologias & Ferramentas
 
 **Backend**
-- Python
-- Java
-- Flask
-- FastAPI
+- Python (Fast e Flask)
+- Java (Spring Boot)
+- TS / JS  (Node)
+- 
 
 **Frontend**
 - HTML
@@ -82,15 +82,6 @@ Tecnologias:
 - Pandas
 
 🔗 https://github.com/jvvls/Fullstack-Dashboard
-
----
-
-## 📚 Atualmente estudando
-
-- Estruturas de Dados e Algoritmos
-- Arquitetura de Software
-- Engenharia de Dados
-- Sistemas distribuídos
 
 ---
 
