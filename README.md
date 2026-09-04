@@ -1,91 +1,111 @@
-## 👋 Olá! Eu sou João Victor
+# 👋 Olá, eu sou João Victor
 
-Estudante de **Engenharia de Software na PUC Minas** e desenvolvedor focado em **backend, dados e arquitetura de sistemas**.
+Estudante de Engenharia de Software na PUC Minas e desenvolvedor com foco em backend, engenharia de dados e sistemas distribuídos.
 
-Atualmente trabalho na modernização da plataforma **DataViva**, contribuindo para pipelines de dados e desenvolvimento full stack utilizando **PySpark, Airflow, MongoDB, FastAPI, React, Docker e AWS**.
+Atualmente trabalho na modernização da plataforma DataViva, uma plataforma pública de dados econômicos e geográficos desenvolvida pela UFMG. Minha atuação envolve desde pipelines de processamento de dados em larga escala até aplicações web e infraestrutura.
 
-Tenho experiência prática construindo aplicações web, pipelines de dados e ferramentas de automação, sempre buscando **código limpo, boas práticas de engenharia e sistemas escaláveis**.
-
-Aqui no GitHub compartilho **projetos acadêmicos e pessoais** voltados para aprendizado profundo, portfólio e evolução técnica contínua.
+Tenho interesse especial em entender como sistemas complexos são projetados, distribuídos e escalados — explorando backend, processamento de dados, arquitetura de sistemas e, mais recentemente, engenharia de software assistida por IA.
 
 ---
 
-## 🚀 Áreas de foco
+## 🚀 Atualmente
 
-- Backend e arquitetura de sistemas  
-- Aplicações Web Full Stack  
-- Engenharia de Dados e ETL
-- Sistemas distribuidos
-- Inteligência Artificial (em formação)
+* Trabalhando com engenharia de dados e desenvolvimento full stack na DataViva
+* Desenvolvendo pipelines ETL com Apache Spark, Sedona e Airflow
+* Construindo aplicações com FastAPI, React e TypeScript
+* Trabalhando com infraestrutura e processamento de dados na AWS
+* Desenvolvendo um SaaS multitenant para gestão escolar com cliente real
+* Explorando agentes de IA, automação de desenvolvimento e workflows spec-driven
+* Estudando sistemas distribuídos, concorrência e programação paralela
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🧠 Áreas de interesse
 
-**Backend**
-- Python (Fast e Flask)
-- Java (Spring Boot)
-- TS / JS  (Node)
-- 
+Backend & Arquitetura de Sistemas · Sistemas Distribuídos · Engenharia de Dados · Computação em Larga Escala · Cloud & Infraestrutura · Inteligência Artificial aplicada à Engenharia de Software
 
-**Frontend**
-- HTML
-- CSS
-- JavaScript
-- React
+---
+
+## 🛠️ Stack
+
+**Backend & Software Engineering**
+
+Python · Java · TypeScript/JavaScript · SQL · C/C++
+
+FastAPI · Spring Boot · Node.js
 
 **Dados**
-- Pandas
-- PySpark
-- ETL Pipelines
 
-**Infraestrutura**
-- Docker
-- AWS
+Apache Spark · Apache Sedona · PySpark · Airflow · Pandas
 
-**Sistemas**
-- C / C++
+PostgreSQL · MongoDB · MySQL
 
-**Automação**
-- Selenium
-- n8n
+**Cloud & Infraestrutura**
 
-**Versionamento**
-- Git & GitHub
+Docker · AWS (EC2, S3) · GitHub Actions
+
+**Frontend**
+
+React · TypeScript · Tailwind · HTML/CSS
+
+**IA & Automação**
+
+Claude Code · OpenAI API · Agentes de IA · Spec-Driven Development · TDD assistido por IA
 
 ---
 
-## 📌 Projetos em destaque
+# 📌 Projetos
 
-### 🔎 Obra Prima
-Aplicação web inspirada no **Portal da Transparência**, focada em tornar **dados públicos mais acessíveis e visualizáveis**.
+## 🚗 Ctrl Fleet
 
-Tecnologias:
-- HTML
-- CSS
-- JavaScript
+Aplicação web para gestão de frotas voltada para órgãos públicos.
+
+O projeto foi eleito o melhor trabalho do semestre e atualmente está em produção.
+
+**Stack**
+
+Spring Boot · PostgreSQL · React · Docker
+
+---
+
+## 📊 DataViva
+
+Contribuição para a modernização de uma plataforma pública de dados econômicos e geográficos.
+
+Atuação no desenvolvimento de pipelines ETL para indicadores de complexidade econômica utilizando Apache Spark, Sedona e Airflow, além de aplicações web e infraestrutura em AWS.
+
+**Stack**
+
+PySpark · Apache Sedona · Airflow · FastAPI · React · TypeScript · MongoDB · AWS
+
+---
+
+## 🏫 SaaS Multitenant para Gestão Escolar
+
+Sistema desenvolvido para um cliente real voltado para gestão de matrículas e operações financeiras de pequenas instituições de ensino.
+
+O projeto envolve modelagem de domínio, isolamento de dados por instituição, regras de negócio e desenvolvimento de funcionalidades para produção.
+
+**Stack**
+
+Java · Spring Boot · PostgreSQL · React · Docker
+
+---
+
+## 🔎 Obra Prima
+
+Plataforma para visualização e exploração de dados públicos relacionados a obras.
+
+O projeto começou como uma aplicação frontend e posteriormente foi retomado e refatorado para uma arquitetura moderna utilizando TypeScript, Node.js, MongoDB e Docker.
 
 🔗 https://projeto-obra-prima.onrender.com
 
 ---
 
-### 📊 Fullstack Dashboard
-
-Projeto de estudo focado em **análise de dados e desenvolvimento full stack**.
-
-A aplicação permite manipulação e visualização de dados através de um backend em Flask integrado com frontend em React.
-
-Tecnologias:
-- Flask
-- React
-- Docker
-- Pandas
-
-🔗 https://github.com/jvvls/Fullstack-Dashboard
-
----
-
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/joaovictorvial/)
-- [Gmail](joaovictorvial@gmail.com)
+LinkedIn: https://www.linkedin.com/in/joaovictorvial/
+
+GitHub: https://github.com/jvvls
+
+Email: [joaovictorvial@gmail.com](mailto:joaovictorvial@gmail.com)
