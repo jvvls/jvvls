@@ -22,6 +22,7 @@ Currently, I work at **DataViva**, a public platform for economic and geographic
 My work sits across several layers of the platform: **large-scale data processing, ETL pipelines, backend services, web applications, databases and cloud infrastructure**.
 
 I'm particularly interested in the intersection between software engineering and complex data systems — understanding not only how to build an application, but also how the systems behind it process, store and serve information.
+
 ---
 
 # 🛠️ Tech Stack
@@ -55,8 +56,6 @@ I'm particularly interested in the intersection between software engineering and
 ### AI & Automation
 
 `RAG` · `LLM APIs` · `AI Agents` · `Evaluation / Benchmarks`
-
----
 
 ---
 
