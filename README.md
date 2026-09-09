@@ -214,9 +214,3 @@ The project explores data visualization, backend services, persistence and conta
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <i>Always building, breaking, understanding and rebuilding.</i>
-</p>
