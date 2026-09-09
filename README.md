@@ -23,8 +23,6 @@ My work sits across several layers of the platform: **large-scale data processin
 
 I'm particularly interested in the intersection between software engineering and complex data systems — understanding not only how to build an application, but also how the systems behind it process, store and serve information.
 
-> **I like building things, but I like understanding how they work even more.**
-
 ---
 
 # 📊 What I'm doing at DataViva
@@ -69,14 +67,8 @@ Working with the infrastructure required to process, store and serve the platfor
 - EC2
 - S3
 - Docker
-- Databases
+- Relational / None-relational Databases
 - Development and deployment environments
-
-### 📈 Domain
-
-A significant part of the work involves datasets and indicators related to economic complexity and international trade, including concepts such as:
-
-`ECI` · `PCI` · `RCA` · `MCP` · `SECEX` · `Comtrade` · `BACI`
 
 This experience has been particularly valuable because it puts software engineering in direct contact with a real scientific and data-intensive environment.
 
