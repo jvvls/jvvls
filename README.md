@@ -155,7 +155,7 @@ The application covers fleet management workflows, business rules and data manag
 
 ---
 
-### 🏫 School Management SaaS
+### 🏫 Eduka
 
 A multitenant SaaS developed for a **real client**, focused on enrollment and financial management for small educational institutions.
 
