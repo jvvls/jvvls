@@ -1,16 +1,5 @@
 # 👋 Hey, I'm João Victor!
 
-<p align="center">
-  <a href="https://github.com/jvvls">
-    <img src="https://img.shields.io/github/followers/jvvls?label=Followers&style=flat&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/joaovictorvial/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" />
-  </a>
-</p>
-
----
-
 I'm a Software Engineering student at **PUC Minas** and a developer interested in understanding how software systems are designed, built and scaled.
 
 Currently, I work at **DataViva**, a public platform for economic and geographic data developed at **UFMG / Cedeplar**.
