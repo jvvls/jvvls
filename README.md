@@ -1,3 +1,4 @@
+
 # 👋 Hey, I'm João Victor!
 
 I'm a Software Engineering student at **PUC Minas** and a developer interested in understanding how software systems are designed, built and scaled.
@@ -14,55 +15,58 @@ I'm particularly interested in the intersection between software engineering and
 
 ### Languages
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=java,python,typescript,javascript,cpp,c,go](https://skillicons.dev/icons?i=java,python,typescript,javascript,cpp,c,go)" />   \<img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)" /> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,cpp,c,go" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ### Backend & Web
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=spring,fastapi,nodejs,react,tailwind,supabase](https://skillicons.dev/icons?i=spring,fastapi,nodejs,react,tailwind,supabase)" />
-&#x20; \<img src="[https://img.shields.io/badge/Edge_Functions-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white](https://img.shields.io/badge/Edge_Functions-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,react,tailwind,supabase" />
+  <img src="https://img.shields.io/badge/Supabase_Edge_Functions-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
 
 ### Data Engineering
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Apache_Sedona-FF6F00?style=for-the-badge&logo=apachespark&logoColor=white](https://img.shields.io/badge/Apache_Sedona-FF6F00?style=for-the-badge\&logo=apachespark\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)" />
-\</p>
+<p>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Sedona-FF6F00?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=postgres,mongodb,mysql](https://skillicons.dev/icons?i=postgres,mongodb,mysql)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
 
 ### Cloud & Infrastructure
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=aws,docker,linux,git,githubactions](https://skillicons.dev/icons?i=aws,docker,linux,git,githubactions)" />
-&#x20; \<img src="[https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge\&logo=amazons3\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge\&logo=amazonec2\&logoColor=white)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,githubactions" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+</p>
 
 ### AI & Automation
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge\&logo=openai\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/AI_Agents-6366F1?style=for-the-badge](https://img.shields.io/badge/AI_Agents-6366F1?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/Evaluation\_%26_Benchmarks-0A7EA4?style=for-the-badge](https://img.shields.io/badge/Evaluation_%26_Benchmarks-0A7EA4?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)" />
-\</p>
+<p>
+  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Evaluation_%26_Benchmarks-0A7EA4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
 
 ---
 
 # 📊 What I'm doing at DataViva
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/DataViva-Current%20Work-58A6FF?style=for-the-badge](https://img.shields.io/badge/DataViva-Current%20Work-58A6FF?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/UFMG-Cedeplar-6E40C9?style=for-the-badge](https://img.shields.io/badge/UFMG-Cedeplar-6E40C9?style=for-the-badge)" />
-\</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/DataViva-Current%20Work-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UFMG-Cedeplar-6E40C9?style=for-the-badge" />
+</p>
 
 **DataViva** is a public data platform developed at UFMG that provides access to economic, geographic and socioeconomic data.
 
@@ -104,7 +108,7 @@ Working with the infrastructure required to process, store and serve the platfor
 
 This experience has been particularly valuable because it puts software engineering in direct contact with a real scientific and data-intensive environment.
 
-🌐 [**https://dataviva.info/**](https://dataviva.info/)
+🌐 **https://dataviva.info/**
 
 ---
 
@@ -129,7 +133,7 @@ The idea is to allow users to ask questions about the available datasets in natu
 
 The project is being developed as an internal DataViva initiative and will receive its own repository / documentation once it reaches a stable stage.
 
-**Focus:**
+**Focus:**  
 `RAG` · `LLM Applications` · `Data Retrieval` · `Tool Use` · `Evaluation` · `Data Understanding`
 
 > 🚧 **Currently in development**
@@ -146,10 +150,10 @@ The project was selected as the **best project of the semester** and is currentl
 
 The application covers fleet management workflows, business rules and data management for public organizations.
 
-**Stack:**
+**Stack:**  
 `Java` · `Spring Boot` · `PostgreSQL` · `React` · `Docker`
 
-🌐 [https://ctrlfleet.onrender.com/](https://ctrlfleet.onrender.com/)
+🌐 https://ctrlfleet.onrender.com/
 
 ---
 
@@ -161,7 +165,7 @@ The project involves real-world domain modeling, business rules, tenant isolatio
 
 The system is being developed with a continuous delivery approach, with the application evolving through successive releases.
 
-**Stack:**
+**Stack:**  
 `Java` · `Spring Boot` · `PostgreSQL` · `React` · `Docker` · `Supabase` · `Supabase Edge Functions` · `n8n`
 
 ---
@@ -174,29 +178,29 @@ The project originally started as a frontend application and was later expanded 
 
 The project explores data visualization, backend services, persistence and containerized deployment.
 
-**Stack:**
+**Stack:**  
 `TypeScript` · `Node.js` · `MongoDB` · `Docker`
 
-🌐 [https://projeto-obra-prima.onrender.com](https://projeto-obra-prima.onrender.com)
+🌐 https://projeto-obra-prima.onrender.com
 
 ---
 
 # 📈 GitHub Stats
 
-\<p align="center">
-&#x20; \<img height="170" src="[https://github-readme-stats.vercel.app/api?username=jvvls&show_icons=true&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api?username=jvvls\&show_icons=true\&theme=github_dark\&hide_border=true)" />
-&#x20; \<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=jvvls&layout=compact&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=jvvls\&layout=compact\&theme=github_dark\&hide_border=true)" />
-\</p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jvvls&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvvls&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
 # 📫 Get in touch
 
-\<p align="left">
-&#x20; \<a href="[https://www.linkedin.com/in/joaovictorvial/](https://www.linkedin.com/in/joaovictorvial/)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
-&#x20; \</a>
-&#x20; \<a href="mailto\:joaovictorvial\@gmail.com">
-&#x20;   \<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" />
-&#x20; \</a>
-\</p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/joaovictorvial/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:joaovictorvial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
