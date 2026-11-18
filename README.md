@@ -1,10 +1,6 @@
 # 👋 Hey, I'm João Victor!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Backend+%26+Systems+Developer;Data+%26+Cloud+Enthusiast;Building+things+to+understand+how+they+work" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://github.com/jvvls">
     <img src="https://img.shields.io/github/followers/jvvls?label=Followers&style=flat&logo=github" />
   </a>
