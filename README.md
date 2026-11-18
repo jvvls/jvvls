@@ -40,7 +40,7 @@ I'm particularly interested in the intersection between software engineering and
 
 ### AI & Automation
 
-`RAG` · `LLM APIs` · `AI Agents` · `Evaluation / Benchmarks`
+`RAG` · `LLM APIs` · `AI Agents` · `Evaluation / Benchmarks`· `AWS Bedrock`
 
 ---
 
