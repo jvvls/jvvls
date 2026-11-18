@@ -67,7 +67,7 @@ Working with data pipelines responsible for transforming and processing large da
 - Geospatial data processing
 - Economic-complexity indicators
 
-### ⚙️ Backend & Applications
+### ⚙️ Fullstack Development 
 
 Development and maintenance of services and applications that expose and consume the platform's data.
 
