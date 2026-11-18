@@ -183,18 +183,6 @@ The project explores data visualization, backend services, persistence and conta
 
 ---
 
-# 🧠 Areas of Interest
-
-`Backend` · `Software Architecture` · `Distributed Systems` · `Data Engineering` · `Cloud` · `Infrastructure` · `Scalable Systems` · `Concurrency` · `Applied AI`
-
----
-
-# 🌱 Currently learning
-
-`Go` · `Concurrency` · `Parallel Programming` · `Distributed Systems` · `System Architecture` · `Cloud Infrastructure`
-
----
-
 # 📈 GitHub Stats
 
 <p align="center">
